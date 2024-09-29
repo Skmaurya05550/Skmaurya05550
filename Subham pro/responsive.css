@@ -1,0 +1,27 @@
+@media screen and (min-width: 400px) and (max-width: 700px) {
+
+    .skills{
+        padding: 10px !important;
+        background-color: #1d3557;
+      
+
+}
+nav{
+    /* background-color: rgb(230, 168, 89) !important; */
+    padding: 2px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.logo a{
+    text-decoration: none;
+    color:white;
+}
+.logo a  h1{
+    font-size: 18px;
+
+}
+}
+    
+       
