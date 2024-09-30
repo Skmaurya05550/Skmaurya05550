@@ -83,8 +83,3 @@
 
  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
 
- ## Contribution Graph
-
- ![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=radical)
-
-
