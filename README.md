@@ -14,7 +14,7 @@
 
 <div style="background: #2c2c2c; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px #4ecdc4;">
   <p style="color: #ffffff; text-shadow: 0 0 5px #4ecdc4;">
-    I'm a passionate <span style="color: #ff6b6b; font-weight: bold;">web developer</span> and <span style="color: #f7b731; font-weight: bold;">designer</span> currently pursuing my B.Tech in my 2nd year. My journey in the world of coding has been exciting, and I'm always eager to learn more. With a keen eye for aesthetics and a love for clean code, I strive to create innovative and user-friendly web experiences.
+    I'm a passionate <span style="color: #ff6b6b; font-weight: bold;">web developer</span> and <span style="color: #f7b731; font-weight: bold;">designer</span> currently pursuing my B.Tech' 27 . My journey in the world of coding has been exciting, and I'm always eager to learn more. With a keen eye for aesthetics and a love for clean code, I strive to create innovative and user-friendly web experiences.
   </p>
 </div>
 
