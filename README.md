@@ -72,14 +72,14 @@
 
  ## Contribution and Progress
 
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=skmaurya05550&show_icons=true&theme=radical)
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skmaurya05550&layout=compact&theme=radical)
 
  ## GitHub Trophies
 
- ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical)
+ ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=skmaurya05550&theme=radical)
 
  ## Streak Stats
 
- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skmaurya05550&theme=radical)
 
