@@ -1,5 +1,3 @@
-<!-- README.md content starts here -->
-
 <div style="background: linear-gradient(to bottom, #1a1a1a, #2c2c2c); color: #ffffff; padding: 20px; border-radius: 10px;">
 
 <h1 align="center">
